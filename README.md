@@ -1,2 +1,3 @@
 # GIT205-26May
 GIT205-26May
+fixes #3
